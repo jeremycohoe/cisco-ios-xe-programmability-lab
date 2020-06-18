@@ -9,7 +9,7 @@
 
 
 # Module 3
-### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-netconf-yang](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-netconf-yang)
+### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang)
 
 
 
