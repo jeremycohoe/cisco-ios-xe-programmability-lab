@@ -15,6 +15,9 @@ Please refer to the IOS XE Programambility Lab Acess Sheet for specific pod acce
 # Module 3 - NETCONF + YANG
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang)
 
+# Module 5 - gRPC Network Management Interface (gNMI)
+#### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
+
 # Module 6 - Model Driven Telemetry
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
 
@@ -22,7 +25,4 @@ Please refer to the IOS XE Programambility Lab Acess Sheet for specific pod acce
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-9-guestshell-onbox-python](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-9-guestshell-onbox-python)
 
 # Module 10 - Application Hosting with iPerf
-
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-10-application-hosting](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-10-application-hosting)
-
-
