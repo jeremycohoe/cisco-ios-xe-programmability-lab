@@ -16,14 +16,23 @@ The services, features, and technologies that are enabled with the lab envrionme
 # Module 2 - Introduction to Python
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-2-python](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-2-python)
 
+This introduction to Python provides a high level overview of basics of the Python programming language. Concepts like variables, math, loops, and virtual envrionments and covered. Python can be used for Network Automation use cases so it is important to understand some of these concepts for later modules. 
+
 # Module 3 - NETCONF + YANG
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang)
+
+The NETCONF + YANG module is an introduction to the NETCONF API as well as the YANG data models that are available within IOS XE. YANGSuite is the GUI tool used to work with the NETCONF API as well as load the YANG data models for visual representation and to get a better understanding of the module metadata items. With YANGSuite the XML RPC payload is generated and then sent to IOS XE, and the reply payload with the requested operational or config data is displayed.
+
 
 # Module 5 - gRPC Network Management Interface (gNMI)
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
 
+This lab module covers the gRPC Network Management Interface (gNMI) that enables device programmability. gNMI supports Model Driven Telemetry which is covered in the MDT module. An overview of the API interface is provided before reviewing the configuration and implmetation details, specifically the TLS certification generation and installation into IOS XE. The gNMI API is used in both secure and insecure server modes which provides the most flexibility in the lab envrionment. The YANGSuite and gnmi_cli tooling is available to easily interact with the API and some examples for retreiving operational and configuration data is provided.
+
 # Module 6 - Model Driven Telemetry
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
+
+The Model Driven Telemetry module contains an overview of the various telemetry interfaces available on IOS XE as well as the YANG data models that are available. CLI tooling and examples for NETCONF and gNMI is provided which enables base functionality and validation of the model driven telemetry interfaces. Once the basics of the interfaces are understood then the Telegraf, InfluxDB, and Grafana tooling is used for visual representation of the telemetry data. This solution is packaged into a Docker container where the configurations, dashboards, and sample data is avilable for viewing.
 
 # Module 8 - Ansible CLI and NETCONF Automation
 
@@ -34,7 +43,11 @@ In this lab module the Ansible automation tooling is used for a variety of tasks
 # Module 9 - Guest Shell and On-Box Python
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-9-guestshell-onbox-python](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-9-guestshell-onbox-python)
 
+Guest Shell is the Linux container that is available within IOS XE. It provides a Python API that enables programmatic device configuration using the included on-box CLI modules. Guest Shell includes the Bash Shell with access to the YUM package manager as well as the Python interpretor which makes it a very flexible and powerful automation option for network engineers.
+
+
 # Module 10 - Application Hosting with iPerf
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-10-application-hosting](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-10-application-hosting)
 
+The Application Hosting framework enables Docker based containers to run on top of IOS XE to enable additional edge compute use cases. iPerf is an application that enables calculation of link speeds between network and end-user devices and can be run within Docker. The networking configuration as well as the Docker workflows, and IOS XE configuration to run the Docker app are provided so that a container can easily be downloaded from DockerHub and installed and running on the IOS XE device.
 
