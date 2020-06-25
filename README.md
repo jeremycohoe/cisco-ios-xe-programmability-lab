@@ -24,6 +24,12 @@ This introduction to Python provides a high level overview of basics of the Pyth
 The NETCONF + YANG module is an introduction to the NETCONF API as well as the YANG data models that are available within IOS XE. YANGSuite is the GUI tool used to work with the NETCONF API as well as load the YANG data models for visual representation and to get a better understanding of the module metadata items. With YANGSuite the XML RPC payload is generated and then sent to IOS XE, and the reply payload with the requested operational or config data is displayed.
 
 
+# Module 3 - RESTCONF with Postman
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-4-restconf](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-4-restconf)
+
+Get content then add description !
+
+
 # Module 5 - gRPC Network Management Interface (gNMI)
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
 
@@ -33,6 +39,13 @@ This lab module covers the gRPC Network Management Interface (gNMI) that enables
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
 
 The Model Driven Telemetry module contains an overview of the various telemetry interfaces available on IOS XE as well as the YANG data models that are available. CLI tooling and examples for NETCONF and gNMI is provided which enables base functionality and validation of the model driven telemetry interfaces. Once the basics of the interfaces are understood then the Telegraf, InfluxDB, and Grafana tooling is used for visual representation of the telemetry data. This solution is packaged into a Docker container where the configurations, dashboards, and sample data is avilable for viewing.
+
+# Module 7 - Zero Touch Provisioning (ZTP)
+
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning)
+
+Add description
+
 
 # Module 8 - Ansible CLI and NETCONF Automation
 
