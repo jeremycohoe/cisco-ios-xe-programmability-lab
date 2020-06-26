@@ -24,7 +24,7 @@ This introduction to Python provides a high level overview of basics of the Pyth
 The NETCONF + YANG module is an introduction to the NETCONF API as well as the YANG data models that are available within IOS XE. YANGSuite is the GUI tool used to work with the NETCONF API as well as load the YANG data models for visual representation and to get a better understanding of the module metadata items. With YANGSuite the XML RPC payload is generated and then sent to IOS XE, and the reply payload with the requested operational or config data is displayed.
 
 
-# Module 3 - RESTCONF with Postman
+# Module 4 - RESTCONF with Postman
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-4-restconf](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-4-restconf)
 
 Get content then add description !
