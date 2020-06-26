@@ -44,7 +44,7 @@ The Model Driven Telemetry module contains an overview of the various telemetry 
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning)
 
-Add description
+In this module, you will verify and confirm the prerequisitesfor ZTP, the Zero Touch Provisioning feature of IOS XE on the Catalyst 9300 switch. At the end of this module, you will issue the ‘write erase’ command, reload the switch, and watch as the ZTP process completes and the switch is configured programmatically and automatically.
 
 
 # Module 8 - Ansible CLI and NETCONF Automation
