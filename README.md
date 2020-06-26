@@ -11,6 +11,10 @@ The services, features, and technologies that are enabled with the lab envrionme
 
 ![](./pod_details.png)
 
+The modules below enable IOS XE Device Lifecycle Management:
+
+![](device_lifecycle.png)
+
 ## Modules
 
 # Module 2 - Introduction to Python
