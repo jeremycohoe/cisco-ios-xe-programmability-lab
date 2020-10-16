@@ -41,7 +41,9 @@ pyATS
 
 # Day 2 - gRPC Model Driven Telemetry + TLS
 
-This module relies on SSL/TLS crypto certificate, so it is recommended to complete the DayN/gNOI cert.proto module prior, speciffically just the 2 steps the detail generating and loading certificates into IOS XE with the gnoi_cert tooling.
+The Day 2 gRPC Model Driven Telemetry with TLS module covers gRPC telemetry being secured with TLS certificates between the IOS XE switch and the Telegraf collector, so it is sent securely over the network.
+
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
 
 
 # Day N - gNOI cert.proto Certificate Management API
