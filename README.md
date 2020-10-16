@@ -28,9 +28,10 @@ The modules below enable IOS XE Device Lifecycle Management:
 The Guestshell Linux container within IOS XE is a CentOS 8 based operating system available that is integrated and available for programmability and automation use cases. In this simple example the container will be enabled and the shared folder between IOS XE and the Guest Shell will be explored.
 
 # Day 1 - API Role Based Access Control
-#### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-3-neconf-yang)
+This module has not yet been made public - access it interally via:
 
-Details of API RBAC
+[http://10.85.134.66/day1apirbac/README.html](http://10.85.134.66/day1apirbac/README.html)
+
 
 # Day 1 - Tooling - pyATS
 #### [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
@@ -40,7 +41,7 @@ pyATS
 
 # Day 2 - gRPC Model Driven Telemetry + TLS
 
-Add details and link etc
+This module relies on SSL/TLS crypto certificate, so it is recommended to complete the DayN/gNOI cert.proto module prior, speciffically just the 2 steps the detail generating and loading certificates into IOS XE with the gnoi_cert tooling.
 
 
 # Day N - gNOI cert.proto Certificate Management API
