@@ -36,8 +36,6 @@ This module has not yet been made public - access it interally via:
 
 # Day 1 - Tooling - pyATS
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-...](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-...)
-
 pyATS - TBD
 
 
