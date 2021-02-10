@@ -1,6 +1,6 @@
 # Welcome to the Cisco IOS XE Programmablity Lab
 
-### Version 17.3
+### Version: 17.4 Cisco Live 2021
 Looking for the previous version of the lab?
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.2.md](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.2.md)
@@ -20,30 +20,30 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 ![](./imgs/device_lifecycle.png)
 
-## Modules
+## Model Driven Telemetry
 
-# Day 0 - Guest Shell, Guest Share
+# YANG Suite
 
-The Guestshell Linux container within IOS XE is a CentOS 8 based operating system available that is integrated and available for programmability and automation use cases. In this simple example the container will be enabled and the shared folder between IOS XE and the Guest Shell will be explored.
+Intro to YS
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare)
 
-# Day 1 - API Role Based Access Control
+# gRPC with YANG Suite
 
-This module has not yet been made public - access it interally via:
+Using YS with gRPC plugin
 
 [http://10.85.134.66/day1apirbac/README.html](http://10.85.134.66/day1apirbac/README.html)
 
 
-# Day 2 - gRPC Model Driven Telemetry + TLS
+# gNOI
 
-The Day 2 gRPC Model Driven Telemetry with TLS module covers gRPC telemetry being secured with TLS certificates between the IOS XE switch and the Telegraf collector, so it is sent securely over the network.
+Load TLS certificates for secure telemetry
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
 
-# Day N - gNOI cert.proto Certificate Management API
+# gRPC + TLS with Telegraf and Grafana
 
-The Day N gNOI cert.proto "certificate management API" is used to install TLS certificate into IOS XE from the Linux/Ubuntu tooling machine. Once the certificates are loaded some tooling is used to validate the secure connection. gNOI cert.proto is also used in the "Day 2 gRPC-TLS" module to load the certificate to secure the telemetry connection.
+Collect secure telemetry and visualize within Grafana
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
 
