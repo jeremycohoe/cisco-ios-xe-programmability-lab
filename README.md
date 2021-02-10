@@ -25,8 +25,11 @@ The modules below enable IOS XE Device Lifecycle Management:
 # YANG Suite
 
 ##Intro to YS
+
 ##Explore YANG
+
 ##NETCONF MDT
+
 ##gRPC receive
 
 
