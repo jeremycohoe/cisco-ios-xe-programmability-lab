@@ -24,28 +24,27 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 # YANG Suite
 
-Intro to YS
+###Intro to YS
+###Explore YANG
+###NETCONF MDT
+###gRPC receive
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare)
 
-# gRPC with YANG Suite
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite)
 
-Using YS with gRPC plugin
-
-[http://10.85.134.66/day1apirbac/README.html](http://10.85.134.66/day1apirbac/README.html)
 
 
 # gNOI
 
 Load TLS certificates for secure telemetry
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
 
 # gRPC + TLS with Telegraf and Grafana
 
 Collect secure telemetry and visualize within Grafana
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
 
 
 
