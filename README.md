@@ -24,13 +24,13 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 # YANG Suite
 
-##Intro to YS
+Intro to YS
 
-##Explore YANG
+Explore YANG
 
-##NETCONF MDT
+NETCONF MDT
 
-##gRPC receive
+gRPC receive
 
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite)
