@@ -20,7 +20,7 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 ![](./imgs/device_lifecycle.png)
 
-## Model Driven Telemetry
+## Lab Modules:
 
 # YANG Suite
 
