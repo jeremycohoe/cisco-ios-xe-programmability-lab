@@ -1,6 +1,6 @@
 # Welcome to the Cisco IOS XE Programmablity Lab
 
-### Version: 17.4 Cisco Live 2021
+### Version: 17.5 Cisco Live 2021
 Looking for the previous version of the lab?
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.2.md](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.2.md)
@@ -9,8 +9,6 @@ Looking for the previous version of the lab?
 To access the lab, you will need to use a Remote Desktop connection to the specific jump host.  The jump host is used to allow remotes access into all lab devices within the given pod envrionment.
 
 Please refer to the IOS XE Programambility Lab Acess Sheet for specific pod access instructions and details
-
-![](./imgs/lab_topology.png)
 
 The services, features, and technologies that are enabled with the lab envrionment are shown below:
 
