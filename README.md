@@ -20,35 +20,33 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 ## Lab Modules:
 
-# YANG Suite
-
-Intro to YS
-
-Explore YANG
-
-NETCONF MDT
-
-gRPC receive
-
+# YANG Suite Tooling
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-YANGSuite)
 
+Enable NETCONF/YANG
+
+Intro to YANG Suite
+
+Download and Explore YANG 
+
+NETCONF Example
 
 
-# gNOI
-
-Load TLS certificates for secure telemetry
+# Automation with gNOI and cert.proto 
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
 
-# gRPC + TLS with Telegraf and Grafana
+Introduction to gNMI
 
-Collect secure telemetry and visualize within Grafana
+Enabling the API
+
+Tooling
+
+Use Cases and examples
+
+# Model Driven Telemetry: gRPC Dial-Out with Telegraf and Grafana
+
+Collect secure telemetry with gRPC Dial-Out and visualize within Grafana
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-6-mdt)
-
-
-
-
-
-
