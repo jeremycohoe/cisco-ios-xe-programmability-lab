@@ -27,7 +27,7 @@ The modules below enable IOS XE Device Lifecycle Management:
 The NETCONF interface on IOS XE is now accessible from within the Guest Shell. No interface configuration or connectivity is required and this can be used at Day 0. The ncclient python library can be used to connect to the NETCONF interface when there is no IP connectivity, similar to the Python CLI modules and API. This can be used by ZTP at Day 0 to programmatically configure the device using either CLI or YANG API calls
 
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning/blob/master/README-17.6.md](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-7-zero-touch-provisioning/blob/master/README-17.6.md)
+[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-day0-guestshell-guestshare)
 
 # Day 1 - gNOI OS.proto
 
