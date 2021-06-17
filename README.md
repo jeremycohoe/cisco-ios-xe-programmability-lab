@@ -1,6 +1,6 @@
 # Welcome to the Cisco IOS XE Programmablity Lab
 
-### Version 17.5 SEVT
+### Version 17.6 SEVT
 Looking for the previous version of the lab?
 
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.5.md](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.5.md)
