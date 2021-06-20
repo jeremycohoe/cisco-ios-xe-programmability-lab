@@ -1,11 +1,10 @@
 # Welcome to the Cisco IOS XE Programmablity Lab
 
-### Version 17.6 SEVT
-Looking for the previous version of the lab?
+## Version 17.6 SEVT
 
-[https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.5.md](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.5.md)
+[Looking for the previous version of the lab?](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab/blob/master/README-17.5.md)
 
-### Lab Topology
+# Lab Topology
 To access the lab, you will need to use a Remote Desktop connection to the specific jump host.  The jump host is used to allow remotes access into all lab devices within the given pod envrionment.
 
 Please refer to the IOS XE Programambility Lab Acess Sheet for specific pod access instructions and details
@@ -20,7 +19,9 @@ The modules below enable IOS XE Device Lifecycle Management:
 
 ![](./imgs/device_lifecycle.png)
 
-## Modules
+# Lab Modules
+
+Lab modules can be completed in any order. Mark the lab completed in the SmartSheet form once you have successfully completed each module to receive SEVT learning credits when appropriate. 
 
 # Day 0 - NETCONF from Guest Shell
 
@@ -31,17 +32,14 @@ The NETCONF interface on IOS XE is now accessible from within the Guest Shell. N
 
 # Day 1 - gNOI OS.proto
 
-gNOI defines a set of gRPC-based microservices for executing operational commands on network devices. OS Install, Activate, and Verification are defined and addressed as part of the "OS.proto" specification
-https://github.com/openconfig/gnoi/blob/master/os/os.proto
+gNOI defines a set of gRPC-based microservices for executing operational commands on network devices. OS Install, Activate, and Verification are defined and addressed as part of the "OS.proto" specification defined on Github/openconfig/os.proto
 
 The OS service provides an interface for OS installation on a Target. The Client progresses through 3 RPCs:
 1) Installation - provide the Target with the OS package.
 2) Activation - activate an installed OS package.
 3) Verification – verify the installed and activated version
 
-
 [https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi](https://github.com/jeremycohoe/cisco-ios-xe-programmability-lab-module-5-gnmi)
-
 
 # Day 2 - gRPC Model Driven Telemetry with FQDN
 
